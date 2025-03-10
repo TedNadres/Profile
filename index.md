@@ -1,6 +1,6 @@
 # TEODORO NADRES
 
-## 
+ 
 **OT Cybersecurity | Automation Engineer | Systems and IT Manager**
 
 ---
