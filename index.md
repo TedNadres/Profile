@@ -51,6 +51,16 @@ into practical skills for the job role of an Associate Cloud Engineer.
 
 - [View on GitHub](#)
 
+### Introduction to Artificial Intelligence (AI)
+- an online non-credit course authorized by IBM and offered through Coursera
+- Verify at: https://cour sera.org/ver ify/6BZ8MWYIFK9J
+  ### Generative AI: Introduction and Applications 
+### Introduction to Software Engineering
+- an online non-credit course authorized by IBM and offered through Coursera
+- Verify at: https://cour sera.org/ver ify/9I6Z2D10K2LQ
+
+
+
 ---
 
 ## Contact Me
