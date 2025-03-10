@@ -1,6 +1,6 @@
-# My Portfolio
+# Teodoro Nadres
 
-## Teodoro Nadres
+## 
 **OT Cybersecurity | Automation Engineer | Systems and IT Manager**
 
 ---
@@ -11,12 +11,44 @@ Highly motivated and results-driven professional with over 2 decades of expertis
 ---
 
 ## Projects
-### Project One
-- A brief description of the project.
+### Google Cybersecurity Certified
+- Those who earn the Google Cybersecurity Certificate have completed
+eight courses, developed by Google, that include hands-on, practicebased assessments and are designed to prepare them for entry-level
+roles in cybersecurity. They are competent in beginner-level Python,
+Linux, SQL, Security Information and Event Management (SIEM) tools,
+and Intrusion Detection Systems (IDS). They know how to identify
+common cybersecurity risks, threats, and vulnerabilities, as well as the
+techniques to mitigate.
+- Course Certificates Completed;
+(1) Tools of the Trade: Linux and SQL
+(2) Play It Safe: Manage Security Risks
+(3) Foundations of Cybersecurity
+(4) Put It to Work: Prepare for Cybersecurity Jobs
+(5) Assets, Threats, and Vulnerabilities
+(6) Automate Cybersecurity Tasks with Python
+(7) Connect and Protect: Networks and Network Security
+(8) Sound the Alarm: Detection and Response
+
+- Verify this certificate at: https://coursera.org/verify/professional-cert/XSUI8TOQSEMU
+
 - [View on GitHub](#)
 
-### Project Two
-- Another amazing project.
+### Google Cloud Preparing for Google Cloud Certification: Cloud Engineer Specialization
+- In this six-course accelerated Professional Certificate, learners
+explored and deployed solution elements, including infrastructure
+components such as networks, systems and applications services
+using Google Cloud Platform. Learners integrated prior technical skills
+into practical skills for the job role of an Associate Cloud Engineer.
+- Course Certificates Completed;
+(1) Essential Google Cloud Infrastructure: Foundation
+(2) Essential Google Cloud Infrastructure: Core Services
+(3) Architecting with Google Kubernetes Engine: Foundations
+(4) Elastic Google Cloud Infrastructure: Scaling and Automation
+(5) Preparing for Your Associate Cloud Engineer Journey
+(6) Google Cloud Fundamentals: Core Infrastructure
+
+- Verify this certificate at: https://coursera.org/verify/professional-cert/Y6WC66VELHAT
+
 - [View on GitHub](#)
 
 ---
