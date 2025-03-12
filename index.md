@@ -28,11 +28,10 @@ techniques to mitigate.
 (6) Automate Cybersecurity Tasks with Python
 (7) Connect and Protect: Networks and Network Security
 (8) Sound the Alarm: Detection and Response
-
 - Verify this certificate at: https://coursera.org/verify/professional-cert/XSUI8TOQSEMU
-
-- Incident Report: (https://tednadres.github.io/portfolio/Securityincident.pdf)
-
+- 📄 Course exercise - Incident Reporting: (https://tednadres.github.io/portfolio/Securityincident.pdf)
+- 📹 Course lab - SQL Query: https://tednadres.github.io/portfolio/ActivitySQLquery.mp4)
+  
 ### Google Cloud Preparing for Google Cloud Certification: Cloud Engineer Specialization
 - In this six-course accelerated Professional Certificate, learners
 explored and deployed solution elements, including infrastructure
@@ -46,9 +45,7 @@ into practical skills for the job role of an Associate Cloud Engineer.
 (4) Elastic Google Cloud Infrastructure: Scaling and Automation
 (5) Preparing for Your Associate Cloud Engineer Journey
 (6) Google Cloud Fundamentals: Core Infrastructure
-
 - Verify this certificate at: https://coursera.org/verify/professional-cert/Y6WC66VELHAT
-
 - [View on GitHub](#)
 
 
