@@ -7,7 +7,9 @@
 ## About Me
 Highly motivated and results-driven professional with over 2 decades of expertise in Operational Technology (OT) and Information Technology, specializing in systems development, industrial automation, and business applications. Proven history of success to design, develop, and integrate plant control systems with enterprise solutions, optimizing efficiency and data-driven decision-making. Equipped with strong leadership in managing IT and control system operations, ensuring 24/7 availability of critical equipment and collaboration across global teams. Extensive experience in programming languages and database systems to develop custom applications. Now seeking to leverage expertise in IT and OT environments to transition into cybersecurity or cloud engineering, applying a unique perspective to protect systems and build resilient infrastructure.
 
+
 ---
+
 
 ## Projects
 ### Google Cybersecurity Certified
@@ -27,7 +29,7 @@ techniques to mitigate.
 (6) Automate Cybersecurity Tasks with Python
 (7) Connect and Protect: Networks and Network Security
 (8) Sound the Alarm: Detection and Response
-- Verify this certificate at: https://coursera.org/verify/professional-cert/XSUI8TOQSEMU
+- Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/XSUI8TOQSEMU)
 - 📄 Course exercise - Incident Reporting: [Security Incident](https://tednadres.github.io/portfolio/Securityincident.pdf)
 - 📹 Course lab - Linux I/O: [Activity Linux IO](https://tednadres.github.io/portfolio/ActivityLinuxIO.mp4)
   
@@ -44,30 +46,32 @@ into practical skills for the job role of an Associate Cloud Engineer.
 (4) Elastic Google Cloud Infrastructure: Scaling and Automation
 (5) Preparing for Your Associate Cloud Engineer Journey
 (6) Google Cloud Fundamentals: Core Infrastructure
-- Verify this certificate at: https://coursera.org/verify/professional-cert/Y6WC66VELHAT
-- [View on GitHub](#)
+- Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/Y6WC66VELHAT)
 
 
 ---
+
 
 ## Trainings
 ### Introduction to Artificial Intelligence (AI)
 - an online non-credit course authorized by IBM and offered through Coursera
-- Verify at: https://coursera.org/ver ify/6BZ8MWYIFK9J
+- Verify at: [Coursera.org](https://coursera.org/ver ify/6BZ8MWYIFK9J)
 
 ### Generative AI: Introduction and Applications
 - an online non-credit course authorized by IBM and offered through Coursera
-- Verify at: https://coursera.org/ver ify/1JKFB1WD1IYQ
+- Verify at: [Coursera.org](https://coursera.org/ver ify/1JKFB1WD1IYQ)
 
 ### Generative AI: Prompt Engineering Basics
 - an online non-credit course authorized by IBM and offered through Coursera
-- Verify at: https://coursera.org/ver ify/M6QJCC5WLIQ1
+- Verify at: [Coursera.org](https://coursera.org/ver ify/M6QJCC5WLIQ1)
 
 ### Introduction to Software Engineering
 - an online non-credit course authorized by IBM and offered through Coursera
-- Verify at: https://coursera.org/ver ify/9I6Z2D10K2LQ
+- Verify at: [Coursera.org](https://coursera.org/ver ify/9I6Z2D10K2LQ)
+
 
 ---
+
 
 ## Contact Me
 - **Email:** tednadres@gmail.com
