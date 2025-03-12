@@ -31,7 +31,7 @@ techniques to mitigate.
 
 - Verify this certificate at: https://coursera.org/verify/professional-cert/XSUI8TOQSEMU
 
-- **Incident Reports:** (https://tednadres.github.io/portfolio/Securityincident.pdf)
+- Incident Report: (https://tednadres.github.io/portfolio/Securityincident.pdf)
 
 ### Google Cloud Preparing for Google Cloud Certification: Cloud Engineer Specialization
 - In this six-course accelerated Professional Certificate, learners
