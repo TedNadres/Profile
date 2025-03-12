@@ -53,7 +53,7 @@ into practical skills for the job role of an Associate Cloud Engineer.
 explored and deployed solution elements, including infrastructure
 
 ### Automation (OT / IT)
-- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is viewed by plant personnel in lieu of the old report system with expensive license.
+- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is viewed by plant personnel. This is in lieu of using the proprietary report system with expensive license.
 - 📷 Screenhots: [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
 
 
