@@ -48,6 +48,14 @@ into practical skills for the job role of an Associate Cloud Engineer.
 (6) Google Cloud Fundamentals: Core Infrastructure
 - Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/Y6WC66VELHAT)
 
+### EC-Council ICS/SCADA Cybersecurity Certified
+- In this six-course accelerated Professional Certificate, learners
+explored and deployed solution elements, including infrastructure
+
+### Automation (OT / IT)
+- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is viewed by plant personnel in lieu of the old report system with expensive license.
+- 📷 Screenhots: [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
+
 
 ---
 
