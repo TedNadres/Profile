@@ -1,7 +1,6 @@
 # TEODORO NADRES
 
- 
-**OT Cybersecurity | Automation Engineer | Systems and IT Manager**
+## **OT Cybersecurity | Automation Engineer | Systems and IT Manager**
 
 ---
 
@@ -29,8 +28,8 @@ techniques to mitigate.
 (7) Connect and Protect: Networks and Network Security
 (8) Sound the Alarm: Detection and Response
 - Verify this certificate at: https://coursera.org/verify/professional-cert/XSUI8TOQSEMU
-- 📄 Course exercise - Incident Reporting: (https://tednadres.github.io/portfolio/Securityincident.pdf)
-- 📹 Course lab - Linux I/O: https://tednadres.github.io/portfolio/ActivityLinuxIO.mp4)
+- 📄 Course exercise - Incident Reporting: [Security Incident](https://tednadres.github.io/portfolio/Securityincident.pdf)
+- 📹 Course lab - Linux I/O: [Activity Linux IO](https://tednadres.github.io/portfolio/ActivityLinuxIO.mp4)
   
 ### Google Cloud Preparing for Google Cloud Certification: Cloud Engineer Specialization
 - In this six-course accelerated Professional Certificate, learners
