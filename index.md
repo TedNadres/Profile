@@ -39,7 +39,7 @@ techniques to mitigate.
 - 
 ### Automation (OT / IT)
 - **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is cost effective since using the proprietary report system requires expensive licenses.
-- 📷 Screenhots: [Plant Reports/HMI](https://tednadres.github.io/portfolio/PlantView1.png)
+- 📷 Screenhots: [Plant Reports / HMI](https://tednadres.github.io/portfolio/PlantView1.png)
 
 
 ---
