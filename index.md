@@ -81,8 +81,9 @@ into practical skills for the job role of an Associate Cloud Engineer.
 
 
 ## Contact Me
-- **Email:** tednadres@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/ted-nadres-5892291a4](#)
+📧 **Email:** [tednadres@gmail.com](mailto:tednadres@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/tednadres](linkedin.com/in/ted-nadres-5892291a4)
 
 ---
 
