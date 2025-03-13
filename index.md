@@ -11,7 +11,7 @@ Highly motivated and results-driven professional with over 2 decades of expertis
 ---
 
 
-## Projects
+## Skills / Projects
 ### Google Cybersecurity Certified
 - Those who earn the Google Cybersecurity Certificate have completed
 eight courses, developed by Google, that include hands-on, practicebased assessments and are designed to prepare them for entry-level
