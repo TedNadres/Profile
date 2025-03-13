@@ -31,7 +31,7 @@ techniques to mitigate.
 (8) Sound the Alarm: Detection and Response
 - Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/XSUI8TOQSEMU)
 - 📄 Course exercise - Incident Reporting: [Security Incident](https://tednadres.github.io/portfolio/my-pages/Securityincident.pdf)
-- 📹 Course lab - Linux I/O: [Activity Linux IO](https://tednadres.github.io/portfolio/ActivityLinuxIO.mp4)
+- 📹 Course lab - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/19oFGrRAaHGVP73icNAjc0sM40rnLCNh9/view?usp=drive_link)
   
 ### Google Cloud Preparing for Google Cloud Certification: Cloud Engineer Specialization
 - In this six-course accelerated Professional Certificate, learners
