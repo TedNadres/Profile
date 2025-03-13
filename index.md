@@ -30,8 +30,8 @@ techniques to mitigate.
 (7) Connect and Protect: Networks and Network Security
 (8) Sound the Alarm: Detection and Response
 - Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/XSUI8TOQSEMU)
-- 📄 Course exercise - Incident Reporting: [Security Incident](https://tednadres.github.io/portfolio/my-pages/Securityincident.pdf)
-- 📹 Course lab - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/19oFGrRAaHGVP73icNAjc0sM40rnLCNh9/view?usp=drive_link)
+- 📄 Course exercise - Incident Reporting: [Security Incident](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
+- 📹 Course lab - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
   
 ### Google Cloud Preparing for Google Cloud Certification: Cloud Engineer Specialization
 - In this six-course accelerated Professional Certificate, learners
