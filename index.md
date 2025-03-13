@@ -30,7 +30,7 @@ techniques to mitigate.
 (7) Connect and Protect: Networks and Network Security
 (8) Sound the Alarm: Detection and Response
 - Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/XSUI8TOQSEMU)
-- 📄 Course exercise - Incident Reporting: [Security Incident,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Compliance Checklist](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
+- 📄 Course exercise - Analyst Reports: [Security Incident,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Compliance Checklist](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Risk Assessment](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
 - 📹 Course lab - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
   
 ### EC-Council ICS/SCADA Cybersecurity Certified
