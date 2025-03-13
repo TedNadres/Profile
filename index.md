@@ -35,7 +35,8 @@ techniques to mitigate.
   
 ### EC-Council ICS/SCADA Cybersecurity Certified
 - The ICS/SCADA Cyber Security Training Course is a hands-on training which will enable you to learn the foundation of security and defending architectures from attacks. You will look at the concept of “thinking like a hacker” to learn techniques to defend from the types of attacks that are commonly conducted against the oil and gas IT corporate and control network.
-
+- 📹 Course lab - SIEM Tools: [Wireshark,](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)[TCPDump](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
+- 
 ### Automation (OT / IT)
 - **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is cost effective since using the proprietary report system requires expensive licenses.
 - 📷 Screenhots: [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
