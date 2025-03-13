@@ -33,6 +33,18 @@ techniques to mitigate.
 - 📄 Course exercise - Incident Reporting: [Security Incident](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
 - 📹 Course lab - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
   
+### EC-Council ICS/SCADA Cybersecurity Certified
+- The ICS/SCADA Cyber Security Training Course is a hands-on training which will enable you to learn the foundation of security and defending architectures from attacks. You will look at the concept of “thinking like a hacker” to learn techniques to defend from the types of attacks that are commonly conducted against the oil and gas IT corporate and control network.
+
+### Automation (OT / IT)
+- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is cost effective since using the proprietary report system requires expensive licenses.
+- 📷 Screenhots: [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
+
+
+---
+
+
+## Trainings
 ### Google Cloud Preparing for Google Cloud Certification: Cloud Engineer Specialization
 - In this six-course accelerated Professional Certificate, learners
 explored and deployed solution elements, including infrastructure
@@ -47,19 +59,7 @@ into practical skills for the job role of an Associate Cloud Engineer.
 (5) Preparing for Your Associate Cloud Engineer Journey
 (6) Google Cloud Fundamentals: Core Infrastructure
 - Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/Y6WC66VELHAT)
-
-### EC-Council ICS/SCADA Cybersecurity Certified
-- The ICS/SCADA Cyber Security Training Course is a hands-on training which will enable you to learn the foundation of security and defending architectures from attacks. You will look at the concept of “thinking like a hacker” to learn techniques to defend from the types of attacks that are commonly conducted against the oil and gas IT corporate and control network.
-
-### Automation (OT / IT)
-- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is viewed by plant personnel. This is in lieu of using the proprietary report system with expensive license.
-- 📷 Screenhots: [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
-
-
----
-
-
-## Trainings
+  
 ### Introduction to Artificial Intelligence (AI)
 - an online non-credit course authorized by IBM and offered through Coursera
 - Verify at: [Coursera.org](https://coursera.org/verify/6BZ8MWYIFK9J)
