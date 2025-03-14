@@ -40,6 +40,10 @@ techniques to mitigate.
 ### Automation (OT / IT)
 - **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is cost effective since using the proprietary report system requires expensive licenses.
 - 📷 Screenhots: [Plant Reports / HMI](https://tednadres.github.io/portfolio/PlantView1.png)
+- **Batching System**: The System is commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch HMI. This is a control system for a manufacturing facility on their mixing plant. The program fully automates the batching of the raw materials to produce the correct recipe for the product.
+- 📷 Screenhots: [SCADA Screens / Relay Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
+- **Raw Materials Control System**: The System is commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch HMI. Fully automates the grinding of silica to the desired surface area.
+- 📷 Screenhots: [SCADA Screens / Relay Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
 
 
 ---
