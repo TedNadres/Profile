@@ -34,10 +34,8 @@ techniques to mitigate.
 - 📹 Laboratory - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
   
 ### Automation (OT / IT)
-- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva (Wonderware) Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is a cost-effective project since using the proprietary report system requires expensive licenses.
-- 📷 Screenshots: [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
-- **Various Control Systems**: Relay ladder logic programming, SCADA scripting and Realtime SQL configuration - The Systems were commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch SCADA. These are control systems for a manufacturing facility. 
-- 📷 Screenhots: [SCADA Screens / Relay Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
+- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva (Wonderware) Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is a cost-effective project since using the proprietary report system requires expensive licenses. 📷 [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
+- **Various Control Systems**: Relay ladder logic programming, SCADA scripting and Realtime SQL configuration - The Systems were commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch SCADA. These are control systems for a manufacturing facility. 📷 [SCADA Screens / Relay Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
 
 
 ---
