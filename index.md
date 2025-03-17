@@ -31,7 +31,7 @@ techniques to mitigate.
 (8) Sound the Alarm: Detection and Response
 - Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/XSUI8TOQSEMU)
 - 📄 Exercise - Analyst Reports: [Security Incident,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Compliance Checklist,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Risk Assessment](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
-- 📹 Laboratory - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
+- 📹 Laboratory - Network Analyzer: [Wireshark](https://drive.google.com/file/d/1NU8pkZNrBC-51GsouNlZ3IP5sUH7WeIC/view?usp=drive_link) Linux: [](https://drive.google.com/file/d/1QfpdoS_yWSv_jKclkI2COcVzBula_ulK/view?usp=drive_link) (https://drive.google.com/file/d/1DHo23dlfWDQl7Gyynx5uEEUv_TtYVvSg/view?usp=drive_link) (https://drive.google.com/file/d/1VfEmoeQphwvT8LFxbifrS8ehwj6FNiSG/view?usp=drive_link)
   
 ### Automation (OT / IT)
 - **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva (Wonderware) Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is a cost-effective project since using the proprietary report system requires expensive licenses. 📷 [Plant Reports](https://drive.google.com/file/d/1t4a3GVH8YI3ot_EorpwQ1Pfvgt6tiZSK/view?usp=drive_link)
