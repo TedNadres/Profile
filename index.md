@@ -30,7 +30,7 @@ techniques to mitigate.
 (7) Connect and Protect: Networks and Network Security
 (8) Sound the Alarm: Detection and Response
 - Verify this certificate at: [Coursera.org](https://coursera.org/verify/professional-cert/XSUI8TOQSEMU)
-- 📄 Exercise - Analyst Reports: [Security Incident,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Compliance Checklist,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Risk Assessment](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
+- 📄 Exercise - Analyst Reports: [Controls and Compliance Checklist,](https://drive.google.com/file/d/1AMrlTp7-HxKH0Nsomup4ZNOaY9IyOXjg/view?usp=drive_link) [Risk Assessment,](https://drive.google.com/file/d/1rJzmr8GLxgvBHxLTePSetYoo7i-saWq9/view?usp=drive_link) [Incident Report](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
 - 📹 Lab - Network Analyzer: [Wireshark](https://drive.google.com/file/d/1NU8pkZNrBC-51GsouNlZ3IP5sUH7WeIC/view?usp=drive_link) 
 - 📹 Lab - Linux: [Installation,](https://drive.google.com/file/d/1QfpdoS_yWSv_jKclkI2COcVzBula_ulK/view?usp=drive_link) [Filtering,](https://drive.google.com/file/d/1DHo23dlfWDQl7Gyynx5uEEUv_TtYVvSg/view?usp=drive_link) [Authorization,](https://drive.google.com/file/d/1VfEmoeQphwvT8LFxbifrS8ehwj6FNiSG/view?usp=drive_link)
 - 📹 Lab - SQL: [Query,](https://drive.google.com/file/d/1NHH7feBCxJSryxgqmbN86np0MRJWWXkM/view?usp=drive_link) [Join,](https://drive.google.com/file/d/1WBJF6Aakp1fdZsG6kdDiQVa5wBlE6EoF/view?usp=drive_link)
