@@ -35,7 +35,7 @@ techniques to mitigate.
   
 ### Automation (OT / IT)
 - **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva (Wonderware) Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is a cost-effective project since using the proprietary report system requires expensive licenses. 📷 [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
-- **Various Control Systems**: Relay ladder logic programming, SCADA scripting and Realtime SQL configuration - The Systems were commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch SCADA. These are control systems for a manufacturing facility. 📷 [SCADA Screens / Relay Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
+- **Various Control Systems**: Relay ladder logic programming, SCADA scripting and Realtime SQL configuration - The Systems were commissioned using Allen-Bradley PLC5/80C, SLC5/04, ControlLogix , Aveva Intouch HMI and InSQL Realtime Historian. These are control systems for a manufacturing facility. 📷 [SCADA / Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
 
 
 ---
