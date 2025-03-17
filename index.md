@@ -33,16 +33,10 @@ techniques to mitigate.
 - 📄 Exercise - Analyst Reports: [Security Incident,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Compliance Checklist,](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link) [Risk Assessment](https://drive.google.com/file/d/1SUirHCpjKH6HbuM7nPa0lb_ki443RUC1/view?usp=drive_link)
 - 📹 Laboratory - Linux I/O: [Activity Linux IO](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
   
-### EC-Council ICS/SCADA Cybersecurity Certified
-- The ICS/SCADA Cyber Security Training Course is a hands-on training which will enable you to learn the foundation of security and defending architectures from attacks. You will look at the concept of “thinking like a hacker” to learn techniques to defend from the types of attacks that are commonly conducted against the oil and gas IT corporate and control network.
-- 📹 Laboratory - SIEM Tools: [Wireshark,](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)[TCPDump](https://drive.google.com/file/d/1SwEOWPS6pxgpAJK2eRPFQWuoDC9i9VND/view?usp=drive_link)
-- 
 ### Automation (OT / IT)
-- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is cost effective since using the proprietary report system requires expensive licenses.
-- 📷 Screenhots: [Plant Reports / HMI](https://tednadres.github.io/portfolio/PlantView1.png)
-- **Batching System**: The System is commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch HMI. This is a control system for a manufacturing facility on their mixing plant. The program fully automates the batching of the raw materials to produce the correct recipe for the product.
-- 📷 Screenhots: [SCADA Screens / Relay Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
-- **Raw Materials Control System**: The System is commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch HMI. Fully automates the grinding of silica to the desired surface area.
+- **Plant Information System**: Full-Stack Programming of Various web-based reports - Connected to the Allen-Bradley PLC, the Aveva (Wonderware) Intouch SCADA downloads data to the Microsoft Access database. Utilizing HTML, Javascript and ASP the page is published on the plant intranet and can be viewed by the supervisors. This is a cost-effective project since using the proprietary report system requires expensive licenses.
+- 📷 Screenshots: [Plant Reports](https://tednadres.github.io/portfolio/PlantView1.png)
+- **Various Control Systems**: Relay ladder logic programming, SCADA scripting and Realtime SQL configuration - The Systems were commissioned using Allen-Bradley PLC5/80C and Aveva (Wonderware) Intouch SCADA. These are control systems for a manufacturing facility. 
 - 📷 Screenhots: [SCADA Screens / Relay Ladder Logic](https://tednadres.github.io/portfolio/PlantView1.png)
 
 
