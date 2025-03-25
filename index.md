@@ -15,9 +15,9 @@ Highly motivated and results-driven professional with over 2 decades of expertis
 ### ICS/SCADA Cybersecurity Trained
 - The course is a hands-on training that teaches the foundation of security and defending architectures from attacks. The trainee looks at the concept of thinking like a hacker to learn techniques to defend from the types of attacks that are commonly conducted against the oil and gas IT corporate and control networks.
 - The following skills were acquired: Overview of ICS/SCADA, Risk Management, ICS/SCADAGenerations, Attack Surface, ICS/SCADA Protocols and Technologies, ICS/SCADA Risks, Vulnerability Identification, Threat Modelling, SCADA Framework, TCP/IP Protocols, ICS/SCADA Protocols, Cybersecurity Standards and Regulations, ISO 27001, Ethical Hacking, Hacking Methodology, Penetration Testing, Vulnerability Management, Vulnerability Assessment, ICS/SCADA Network Security, Monitoring ICS/SCADA Network, Overview of IDS/IPS, Intrusion Analysis, Log Analysis, OS Fingerprinting, Overview of APT, ICS/SCADA Connections, Zone Monitoring, SIEM, ICS Malware.
-- Verify this certificate no. 747503 at: [EC-Concil](https://aspen.eccouncil.org/VerifyEval)
-- 📄 Exercises - Analyst Reports: [Controls and Compliance Checklist,](https://drive.google.com/file/d/1AMrlTp7-HxKH0Nsomup4ZNOaY9IyOXjg/view?usp=drive_link) [Risk Assessment,](https://drive.google.com/file/d/1rJzmr8GLxgvBHxLTePSetYoo7i-saWq9/view?usp=drive_link) [Incident Report,](https://drive.google.com/file/d/1Y7ME9p8BYAeHtEpojIwgAIIGVAfb53JB/view?usp=drive_link) [Network Traffic Analysis](https://drive.google.com/file/d/1TI-KxqtJQpZNSvg0mPKFwxlTmKpEG2cw/view?usp=drive_link)
-- 📹 Lab - SCADA Worstation Simulation: [Wireshark](https://drive.google.com/file/d/1NU8pkZNrBC-51GsouNlZ3IP5sUH7WeIC/view?usp=drive_link)
+- 📃 Certificate: [Completion](https://drive.google.com/file/d/1h3Kwh8Z089TRkQJt5Xycs2GFr7z0zmwJ/view?usp=drive_link) 
+- Verify this certificate at: [EC-Council](https://aspen.eccouncil.org/VerifyEval)
+- 📹 Lab - SCADA Worstation Simulation: [Footprinting](https://drive.google.com/file/d/14nt3jxYklbVwfg3Vzgiq9Gd-u9-c-ouC/view?usp=drive_link)
 ### Google Cybersecurity Certified
 - Those who earn the Google Cybersecurity Certificate have completed
 eight courses, developed by Google, that include hands-on, practicebased assessments and are designed to prepare them for entry-level
